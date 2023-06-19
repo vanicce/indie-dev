@@ -9,7 +9,6 @@
   "categories": [
     "Themes"
   ],
-  "publisher": "ssilvalucas2004",
   "keywords": [
     "indie",
     "dark",
@@ -21,12 +20,13 @@
     "type": "git",
     "url": "https://github.com/lucwx/indie-dev"
   },
+  "publisher": "lucwx",
   "contributes": {
     "themes": [
       {
         "label": "Indie Dev",
         "uiTheme": "vs-dark",
-        "path": "./themes/Indie Dev-color-theme.json"
+        "path": "./themes/indie-dev-color-theme.json"
       }
     ]
   }
