@@ -230,10 +230,10 @@
 
 		"tab.activeBackground": "#16161e",
 		"tab.inactiveBackground": "#16161e",
-		"tab.activeForeground": "#a9b1d6",
+		"tab.activeForeground": "#bdc7f0",
 		"tab.hoverForeground": "#a9b1d6",
 		"tab.activeBorder": "#3d59a1",
-		"tab.inactiveForeground": "#787c99",
+		"tab.inactiveForeground": "#4a5588",
 		"tab.border": "#101014",
 		"tab.unfocusedActiveForeground": "#a9b1d6",
 		"tab.unfocusedInactiveForeground": "#787c99",
