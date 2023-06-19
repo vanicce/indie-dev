@@ -1,3 +1,5 @@
-## [Unreleased]
+- version: "0.0.2"
+Update Description
 
-- Initial release
+- version: "0.0.1"
+Initial release
