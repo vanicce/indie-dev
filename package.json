@@ -1,7 +1,7 @@
 {
   "name": "indie-dev",
   "displayName": "Indie Dev",
-  "description": "a simple, usual, beautiful and shoegaze theme for vscode",
+  "description": "a simple, usual, beautiful and shoegaze theme for vscode.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.79.0"
