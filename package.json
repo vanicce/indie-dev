@@ -1,7 +1,7 @@
 {
   "name": "indie-dev",
   "displayName": "Indie Dev",
-  "description": "a simple, beautiful and usual theme for vscode",
+  "description": "a simple, usual, beautiful and shoegaze theme for vscode",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.79.0"
@@ -9,6 +9,17 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "indie",
+    "dark",
+    "anime",
+    "shoegaze"
+  ],
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucwx/indie-dev"
+  },
   "contributes": {
     "themes": [
       {
